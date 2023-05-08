@@ -1,0 +1,19 @@
+div{
+    border-style: solid;
+}
+p{
+    color: brown;
+    text-align: justify;
+}
+a{
+    font-style: italic;
+}
+h1{
+    font-size: 5px;
+}
+h2{
+    font-size: 50px;
+}
+h3{
+    font-size: 75px;
+}

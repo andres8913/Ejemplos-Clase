@@ -1,0 +1,22 @@
+.clase{
+    border-style: double;
+    background-color: sienna;
+    font-size: xx-large;
+    width: 25%;
+}
+
+.mainLetter{
+    font-size: x-small;
+    font-style:italic;
+    font-family: cursive;
+}
+
+.segundodiv{
+    font-size: medium;
+    font-style: oblique;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.colorLetra{
+    color: fuchsia;
+}
